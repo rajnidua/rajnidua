@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajnidua
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @rajnidua 
+- 👀 I’m interested in the design and development of applications taking a mobile-first and customer-cenric approach
+- 🌱 I’m currently enrolled in Full Stack Program Coding Boot Camp from The University of Adelaide 
+- 💞️ I’m looking to collaborate on web application development projects using technologies HTML, CSS, JavaScript, React.js, Node.js
+- 📫 Connect me via LinkedIn - https://www.linkedin.com/in/rajnidua/
 
 <!---
 rajnidua/rajnidua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
