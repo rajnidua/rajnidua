@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web application development projects using technologies HTML, CSS, JavaScript, React.js, Node.js,Express JS,MySQL,Mongodb and heroku.
 - 📫 Connect me via Email - rajni.dua14@gmail.com
 - 📫 Connect me via LinkedIn - https://www.linkedin.com/in/rajnidua/
-- checkout my portfolio - rajnidua.github.io/react-portfolio/
+- checkout my portfolio - https://rajnidua.github.io/react-portfolio/
 
 <!---
 rajnidua/rajnidua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
